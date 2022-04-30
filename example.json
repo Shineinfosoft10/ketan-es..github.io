@@ -1,0 +1,41 @@
+{
+    "data": [
+      [
+        "Equity",
+        "3,099.00",
+        "10.47",
+        "51.33",
+        "1",
+        [
+            {"company": "Reliance Industries", "value": "8992.36", "percentage": "12.11"},
+            {"company": "ICICI Bank", "value": "8992.36", "percentage": "8.44"},
+            {"company": "Infosys", "value": "3822.41", "percentage": "3.66"},
+            {"company": "HDFC Bank Ltd", "value": "3800.01", "percentage": "3.05"},
+            {"company": "HDFC", "value": "2025.81", "percentage": "2.10"},
+            {"company": "Kotak Mahindra Bank", "value": "2025.00", "percentage": "2.09"},
+            {"company": "Larsen & Toubro", "value": "1070.05", "percentage": "1.05"},
+            {"company": "State Bank of India", "value": "1068.00", "percentage": "1.05"}
+        ],
+        "false"
+      ],
+       [
+        "Debt",
+        "1,500.00",
+        "6.25",
+        "20.07",
+        "2",
+        [{"company": "TATA Power", "value": "1256.89", "percentage": "5.30"}, {"company": "LIC Home Loan", "value": "4632.36", "percentage": "10.05"}],
+        "true"
+      ],
+      [
+        
+        "Hybrid",
+        "1,800.00",
+        "4.81",
+        "26.60",
+        "3",
+        [{"company": "Adani Power", "value": "6230.75", "percentage": "7.45"}, {"company": "IDBI Bank", "value": "5601.36", "percentage": "3.20"}],
+        "false"
+      ]
+    ]
+}
